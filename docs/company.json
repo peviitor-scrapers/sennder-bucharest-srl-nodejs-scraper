@@ -6,5 +6,5 @@
   "careerUrl": "https://www.sennder.com/open-positions",
   "apiBase": "https://api.gem.com/job_board/v0/senndertechnologies-gmbh",
   "defaultLocation": "București",
-  "scraperFile": "https://raw.githubusercontent.com/sebiboga/sennder-bucharest-srl-nodejs-scraper/main/.github/workflows/job-seeker-ro-spider.yml"
+  "scraperFile": "https://raw.githubusercontent.com/peviitor-scrapers/sennder-bucharest-srl-nodejs-scraper/main/.github/workflows/job-seeker-ro-spider.yml"
 }
