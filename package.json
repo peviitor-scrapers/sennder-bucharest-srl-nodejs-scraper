@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "node-fetch": "^3.3.2",
-    "dotenv": "^18.0.6"
+    "dotenv": "^18.0.8"
   },
   "devDependencies": {
     "jest": "^30.5.2",
