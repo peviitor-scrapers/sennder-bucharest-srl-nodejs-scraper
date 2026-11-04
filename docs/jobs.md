@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 5, STR SERG. NUTU ION, NR.44, ET.5 |
 | Website | [https://www.sennder.com](https://www.sennder.com) |
 | Careers | [https://www.sennder.com/open-positions](https://www.sennder.com/open-positions) |
-| Last Scraped | 2026-11-03 |
+| Last Scraped | 2026-11-04 |
 
-## Current Job Listings (2)
+## Current Job Listings (3)
 
-_Generated: 2026-11-03T13:22:09.199Z_
+_Generated: 2026-11-04T13:33:08.567Z_
 
 ### Senior GL Accountant 
 
@@ -27,6 +27,14 @@ _Generated: 2026-11-03T13:22:09.199Z_
 ### Internal Auditor 
 
 - **URL:** [https://jobs.gem.com/senndertechnologies-gmbh/am9icG9zdDrUf1YWr2z_G2mCizDn8vai](https://jobs.gem.com/senndertechnologies-gmbh/am9icG9zdDrUf1YWr2z_G2mCizDn8vai)
+- **Work Mode:** on-site
+- **Location:** Bucharest
+- **Tags:** finance 
+- **Status:** scraped
+
+### Risk & Control Lead 
+
+- **URL:** [https://jobs.gem.com/senndertechnologies-gmbh/am9icG9zdDqLbj-ebHFpYLbH-VKqJYTB](https://jobs.gem.com/senndertechnologies-gmbh/am9icG9zdDqLbj-ebHFpYLbH-VKqJYTB)
 - **Work Mode:** on-site
 - **Location:** Bucharest
 - **Tags:** finance 
