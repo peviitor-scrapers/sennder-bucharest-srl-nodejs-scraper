@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 5, STR SERG. NUTU ION, NR.44, ET.5 |
 | Website | [https://www.sennder.com](https://www.sennder.com) |
 | Careers | [https://www.sennder.com/open-positions](https://www.sennder.com/open-positions) |
-| Last Scraped | 2026-11-04 |
+| Last Scraped | 2026-11-05 |
 
 ## Current Job Listings (3)
 
-_Generated: 2026-11-04T13:33:08.567Z_
+_Generated: 2026-11-05T13:47:00.107Z_
 
 ### Senior GL Accountant 
 
