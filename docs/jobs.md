@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 5, STR SERG. NUTU ION, NR.44, ET.5 |
 | Website | [https://www.sennder.com](https://www.sennder.com) |
 | Careers | [https://www.sennder.com/open-positions](https://www.sennder.com/open-positions) |
-| Last Scraped | 2026-11-11 |
+| Last Scraped | 2026-11-12 |
 
-## Current Job Listings (3)
+## Current Job Listings (4)
 
-_Generated: 2026-11-11T13:18:43.032Z_
+_Generated: 2026-11-12T14:23:10.372Z_
 
 ### Senior GL Accountant 
 
@@ -30,6 +30,14 @@ _Generated: 2026-11-11T13:18:43.032Z_
 - **Work Mode:** on-site
 - **Location:** Bucharest
 - **Tags:** finance 
+- **Status:** scraped
+
+### Junior Operations Support (09:00 to 18:00 & 10:00 to 19:00) - maternity cover 2 years
+
+- **URL:** [https://jobs.gem.com/senndertechnologies-gmbh/am9icG9zdDrQUOKzWkPtUqlrzEzrbDws](https://jobs.gem.com/senndertechnologies-gmbh/am9icG9zdDrQUOKzWkPtUqlrzEzrbDws)
+- **Work Mode:** hybrid
+- **Location:** Bucharest
+- **Tags:** global operations
 - **Status:** scraped
 
 ### Risk & Control Lead 
